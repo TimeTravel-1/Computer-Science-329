@@ -1,0 +1,110 @@
+\contentsline {section}{\numberline {1}January 9, 2017}{5}{section.1}
+\contentsline {subsection}{\numberline {1.1}Introduction}{5}{subsection.1.1}
+\contentsline {section}{\numberline {2}January 11, 2017}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Information Security}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Challenges to Computer Security}{6}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Computer Security Terminology}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Threat Consequences}{7}{subsection.2.4}
+\contentsline {section}{\numberline {3}January 13, 2017}{9}{section.3}
+\contentsline {subsection}{\numberline {3.1}Computer System Assets}{9}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Network Attacks}{9}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Security Design Principles}{10}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Methods of Attack}{10}{subsection.3.4}
+\contentsline {section}{\numberline {4}January 16, 2017}{11}{section.4}
+\contentsline {subsection}{\numberline {4.1}Computer Security Strategy}{11}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Password Authentication}{11}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Guess-Verify Attack}{13}{subsection.4.3}
+\contentsline {section}{\numberline {5}January 18, 2017}{13}{section.5}
+\contentsline {subsection}{\numberline {5.1}Guess-Verify Attack Cont'd}{13}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Defending Against Guess-Verify Attacks}{14}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Keystroke Logging, Phishing, and Social Engineering}{15}{subsection.5.3}
+\contentsline {section}{\numberline {6}January 20, 2017}{15}{section.6}
+\contentsline {subsection}{\numberline {6.1}Password Protection}{15}{subsection.6.1}
+\contentsline {section}{\numberline {7}January 23, 2017}{17}{section.7}
+\contentsline {subsection}{\numberline {7.1}Graphical Passwords}{17}{subsection.7.1}
+\contentsline {section}{\numberline {8}January 25, 2017}{18}{section.8}
+\contentsline {subsection}{\numberline {8.1}Vulnerabilities}{18}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Token Based Authentication}{19}{subsection.8.2}
+\contentsline {section}{\numberline {9}January 27, 2017}{20}{section.9}
+\contentsline {subsection}{\numberline {9.1}Token Based Authentication Cont'd}{20}{subsection.9.1}
+\contentsline {section}{\numberline {10}January 30, 2017}{21}{section.10}
+\contentsline {subsection}{\numberline {10.1}Token Based Authentication Cont'd}{21}{subsection.10.1}
+\contentsline {section}{\numberline {11}February 1, 2017}{22}{section.11}
+\contentsline {subsection}{\numberline {11.1}Biometric Authentication}{22}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}Fingerprint and Iris Scanning}{24}{subsection.11.2}
+\contentsline {section}{\numberline {12}February 3, 2017}{24}{section.12}
+\contentsline {subsection}{\numberline {12.1}Handwriting Biometrics}{24}{subsection.12.1}
+\contentsline {subsection}{\numberline {12.2}Biometric Assessment}{25}{subsection.12.2}
+\contentsline {section}{\numberline {13}February 6, 2017}{26}{section.13}
+\contentsline {subsection}{\numberline {13.1}Access Control}{26}{subsection.13.1}
+\contentsline {subsection}{\numberline {13.2}Unix/Linux File System Security}{27}{subsection.13.2}
+\contentsline {section}{\numberline {14}February 8, 2017}{29}{section.14}
+\contentsline {subsection}{\numberline {14.1}NTF}{29}{subsection.14.1}
+\contentsline {section}{\numberline {15}February 10, 2017}{29}{section.15}
+\contentsline {subsection}{\numberline {15.1}Role Based Access Control (RBAC)}{29}{subsection.15.1}
+\contentsline {subsection}{\numberline {15.2}Attribute Based Access Control (ABAC)}{31}{subsection.15.2}
+\contentsline {section}{\numberline {16}February 13, 2017}{31}{section.16}
+\contentsline {subsection}{\numberline {16.1}Midterm Review}{31}{subsection.16.1}
+\contentsline {section}{\numberline {17}February 27, 2017}{31}{section.17}
+\contentsline {subsection}{\numberline {17.1}Introduction to Cryptography}{31}{subsection.17.1}
+\contentsline {subsection}{\numberline {17.2}Ciphers}{32}{subsection.17.2}
+\contentsline {section}{\numberline {18}March 1, 2017}{33}{section.18}
+\contentsline {subsection}{\numberline {18.1}Ciphers Cont'd}{33}{subsection.18.1}
+\contentsline {section}{\numberline {19}March 3, 2017}{35}{section.19}
+\contentsline {subsection}{\numberline {19.1}Measures of Security}{35}{subsection.19.1}
+\contentsline {subsection}{\numberline {19.2}Types of Cryptography}{35}{subsection.19.2}
+\contentsline {subsection}{\numberline {19.3}Cryptanalytic Attacks}{36}{subsection.19.3}
+\contentsline {section}{\numberline {20}March 6, 2017}{36}{section.20}
+\contentsline {subsection}{\numberline {20.1}Cryptographic Hash Functions}{36}{subsection.20.1}
+\contentsline {section}{\numberline {21}March 8, 2017}{39}{section.21}
+\contentsline {subsection}{\numberline {21.1}Cryptographic Hash Function Applications}{39}{subsection.21.1}
+\contentsline {section}{\numberline {22}March 10, 2017}{40}{section.22}
+\contentsline {subsection}{\numberline {22.1}Symmetric Cryptography}{40}{subsection.22.1}
+\contentsline {subsection}{\numberline {22.2}Block Ciphers}{41}{subsection.22.2}
+\contentsline {section}{\numberline {23}March 13, 2017}{43}{section.23}
+\contentsline {subsection}{\numberline {23.1}Block Cipher Modes of Operation}{43}{subsection.23.1}
+\contentsline {subsection}{\numberline {23.2}Stream Ciphers}{43}{subsection.23.2}
+\contentsline {subsection}{\numberline {23.3}Confusion and Diffusion}{44}{subsection.23.3}
+\contentsline {section}{\numberline {24}March 15, 2017}{45}{section.24}
+\contentsline {subsection}{\numberline {24.1}Public Key Cryptography}{45}{subsection.24.1}
+\contentsline {subsection}{\numberline {24.2}Diffie-Hellman Key Exchange}{46}{subsection.24.2}
+\contentsline {section}{\numberline {25}March 17, 2017}{48}{section.25}
+\contentsline {subsection}{\numberline {25.1}Enveloped Public Key Encryption}{48}{subsection.25.1}
+\contentsline {subsection}{\numberline {25.2}RSA}{49}{subsection.25.2}
+\contentsline {section}{\numberline {26}March 20, 2017}{50}{section.26}
+\contentsline {subsection}{\numberline {26.1}Digital Certificates}{50}{subsection.26.1}
+\contentsline {section}{\numberline {27}March 24, 2017}{52}{section.27}
+\contentsline {subsection}{\numberline {27.1}SSL and TLS}{52}{subsection.27.1}
+\contentsline {subsection}{\numberline {27.2}SSL and TLS Protocols}{53}{subsection.27.2}
+\contentsline {subsection}{\numberline {27.3}Master Secret}{55}{subsection.27.3}
+\contentsline {section}{\numberline {28}March 27, 2017}{55}{section.28}
+\contentsline {subsection}{\numberline {28.1}Web Security}{55}{subsection.28.1}
+\contentsline {subsection}{\numberline {28.2}Server and Client}{57}{subsection.28.2}
+\contentsline {section}{\numberline {29}March 29, 2017}{57}{section.29}
+\contentsline {subsection}{\numberline {29.1}Browser Security}{57}{subsection.29.1}
+\contentsline {section}{\numberline {30}March 31, 2017}{59}{section.30}
+\contentsline {subsection}{\numberline {30.1}Web Authentication}{59}{subsection.30.1}
+\contentsline {section}{\numberline {31}April 3, 2017}{60}{section.31}
+\contentsline {subsection}{\numberline {31.1}Malware}{60}{subsection.31.1}
+\contentsline {subsection}{\numberline {31.2}Viruses}{61}{subsection.31.2}
+\contentsline {subsection}{\numberline {31.3}Worms}{63}{subsection.31.3}
+\contentsline {section}{\numberline {32}April 5, 2017}{64}{section.32}
+\contentsline {subsection}{\numberline {32.1}Worm Development}{64}{subsection.32.1}
+\contentsline {subsection}{\numberline {32.2}Trojan Horse}{64}{subsection.32.2}
+\contentsline {subsection}{\numberline {32.3}Botnets}{65}{subsection.32.3}
+\contentsline {section}{\numberline {33}April 7, 2017}{66}{section.33}
+\contentsline {subsection}{\numberline {33.1}Network Security}{66}{subsection.33.1}
+\contentsline {subsection}{\numberline {33.2}Packet Routing}{67}{subsection.33.2}
+\contentsline {subsection}{\numberline {33.3}Local Area Routing}{67}{subsection.33.3}
+\contentsline {section}{\numberline {34}April 10, 2017}{69}{section.34}
+\contentsline {subsection}{\numberline {34.1}Internet Routing}{69}{subsection.34.1}
+\contentsline {subsection}{\numberline {34.2}Network Attacks}{69}{subsection.34.2}
+\contentsline {subsection}{\numberline {34.3}Defense Against Network Flooding}{70}{subsection.34.3}
+\contentsline {subsection}{\numberline {34.4}Firewalls}{71}{subsection.34.4}
+\contentsline {subsection}{\numberline {34.5}Firewall Approaches}{72}{subsection.34.5}
+\contentsline {section}{\numberline {35}April 12, 2017}{72}{section.35}
+\contentsline {subsection}{\numberline {35.1}Firewall Types}{72}{subsection.35.1}
+\contentsline {subsection}{\numberline {35.2}Firewall Strengths and Weaknesses}{73}{subsection.35.2}
+\contentsline {subsection}{\numberline {35.3}Domain Name System}{74}{subsection.35.3}
+\contentsline {subsection}{\numberline {35.4}DNS Security}{74}{subsection.35.4}
+\contentsline {subsection}{\numberline {35.5}Virtual Private Network}{75}{subsection.35.5}
